@@ -1,2 +1,3 @@
 # pynewman_one
-secret
+秘密
+这是个秘密
